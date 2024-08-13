@@ -15,6 +15,7 @@ Kotlin: The programming language used.
 Coroutines: For managing background threads, simplifying async programming.  
 LazyColumn: To efficiently display large lists of data.  
 Gemini API: For fetching and processing data.  
+Model: gemini-1.5-flash
 
 ## Architecture
 
